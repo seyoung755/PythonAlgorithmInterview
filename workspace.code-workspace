@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\Users\\admin\\Desktop\\Projects"
+		},
+		{
+			"path": "..\\Users\\admin\\Desktop\\python"
+		},
+		{
+			"path": "..\\Users\\admin\\Desktop\\leetcord"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PythonAlgorithm"
+		},
+		{
+			"path": "..\\WebProgram"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebProgram"
+	}
+}
