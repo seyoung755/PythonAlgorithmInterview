@@ -1,6 +1,7 @@
 {
 	"folders": [
 		{
+<<<<<<< HEAD
 			"path": "..\\Users\\admin\\Desktop\\Projects"
 		},
 		{
@@ -22,4 +23,14 @@
 	"settings": {
 		"liveServer.settings.multiRootWorkspaceName": "WebProgram"
 	}
+=======
+			"path": "../Webprogram/WebProgram"
+		},
+		{
+			"name": "PythonAlgorithmInterview",
+			"path": "."
+		}
+	],
+	"settings": {}
+>>>>>>> 1ba7ba3bfbe8bf16311bc946c3099e5547955c4d
 }
